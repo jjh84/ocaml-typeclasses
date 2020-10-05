@@ -1,0 +1,3 @@
+(test
+ (name typeclasses)
+ (libraries base))
